@@ -1,0 +1,6 @@
+{
+  "name": "StacyVerse",
+  "description": "Premium Script & Sci-Fi Story Platform with Stacy AI storytelling partner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
